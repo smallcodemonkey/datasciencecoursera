@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-my R projects
